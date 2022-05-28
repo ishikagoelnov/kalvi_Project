@@ -1,0 +1,279 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.headerId{
+    margin-top: 30px;
+}
+ul{
+    list-style:none;
+  display: flex;
+  justify-content: space-between;
+  width: 48%;
+  margin-top: 45px;
+  margin-left: 182px;
+}
+.navigation{
+    margin-top: 30px;
+}
+.midContent{
+    margin: 52px 40px;
+    display: flex;
+    justify-content: space-between;
+}
+.section11{
+    margin-top: 69px;
+    width: 39%;
+    height: auto;
+    margin-left: 30px;
+}
+.heading1{
+    font-size: 41px;
+}
+.content p{
+    font-size: 18px;
+}
+.para1{
+    font-size: 20px;
+}
+.image1{ 
+    margin-right: 30px;
+}
+.image1 img{
+    width: 90%;
+    height: auto;
+}
+.butn{
+    margin-top: 45px;
+    width: 100px;
+    background-color:#a3cb38;
+    border-radius: 3px;
+    padding: 10px;
+
+}
+.butn a{
+    color: white;
+    text-decoration: none;
+}
+#green-graphic{
+    position: absolute;
+    background-color: #a3cb38;
+    top: 0;
+    right: 330px;
+    height: 500px;
+    width: 300px;
+    z-index: -1;
+}
+.data{
+    margin: 52px 40px;
+    display: flex;
+    justify-content: space-between;
+}
+.head1{
+    position: absolute;
+    font-size: 50px;
+    width: 10px;
+    left: 84px;
+}
+
+.picture2 img{
+    position: absolute;
+    left: 0;
+    height: 29%;
+    z-index: -1;
+}
+.block2 {
+        margin-right: 347px;
+        margin-top: 20px;
+        width: 38%;
+    }
+.date-content h2{
+ color: #a3cb38;
+ margin-bottom: 10px;
+ margin-top: 10px;
+}
+.date-content h3{
+    font-weight: bolder;
+    margin-bottom: 10px;;
+}
+#cards{
+    margin-top: 70px;
+}
+#workholic{
+    text-align: center;
+    margin-bottom: 40px;
+}
+#workholic h1{
+    margin-bottom: 47px;
+    font-size: 48px;
+}
+.grid1{
+    margin: 0px 100px;
+    margin-bottom: 100px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    row-gap: 20px;
+}
+.img1{
+    background: url("recipe.png") ;
+}
+.img2{
+    background: url("emoji.png") ;
+}
+.img3{
+    background: url("guess-the-number.png") ;
+}
+.img4{
+    background: url("rock-paper-scissors.png") ;
+}
+.img5{
+    background: url("pokemon.png") ;
+}
+.img6{
+    background: url("e-birthday-card.png") ;
+}
+.grid1image1{
+ width: 130px;
+ height: 130px;
+ background-size: contain;
+ background-position: center;
+ margin-bottom: 9px;
+}
+.grid1items{
+    padding-left: 70px;
+    width: 190px;
+}
+.grid1items p{
+    margin-top: 6px;
+    margin-bottom: 16px;
+    font-weight: 800;
+    font-size: 13px;
+}
+.grid1items a{
+    text-decoration: none;
+    color: #a3cb38;
+}
+.greenbatch{
+   position: relative;
+   background-color: #a3cb38;
+   width: 20px;
+   height: 40px;
+   top: 20px;
+   left: 10px;
+}
+.card2{
+    margin: 38px 0px;
+    margin-left: 70px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.batch2{
+    position: relative;
+    right: 177px;
+}
+.green-batch3{
+    position: relative;
+    height: 5px;
+    width: 40px;
+    background-color: #a3cb38;
+}
+.content1{
+    width: 45%;
+}
+.b1{
+    margin-bottom: 100px;
+}
+.b2{
+    margin-bottom: 90px;
+}
+.corner{
+    background-color: #a3cb38;
+    margin-right: 0px;
+    padding: 28px;
+}
+.corner h1{
+    text-align: center;
+    font-size: 75px;
+    color: white;
+}
+.card3{
+    display: flex;
+    justify-content: space-between;
+}
+.section1{
+    padding-top: 11em;
+    margin-left: 80px;
+}
+.section1 h1{
+    color: #a3cb38;
+    font-size: 70px;
+}
+.section1 p{
+    width: 80%;
+    
+}
+.section2{
+    display: grid;
+    grid-template-columns: auto auto;
+
+    /* margin: 20px 58px; */
+    margin-right: 162px;
+}
+.inner-grid1{
+    display: grid;
+    grid-template-rows: auto auto;
+}
+.inner-grid2{
+    display: grid;
+    grid-template-rows: auto auto auto;
+}
+.picItem2 img{
+   width: 250px;
+   height: auto;
+   background-size: contain;
+   background-position: center;
+   /* border:  solid black;
+   border-width: thin; */
+
+}
+.imi1{
+    padding-top: 110px;
+   
+    margin: 0px;
+}
+.imi2{
+    margin-top: -70px;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+}
+.contact{
+    text-align: center;
+    background-color: #a3cb38;
+    color: white;
+    width: 30%;
+    height: 181px;
+    padding: 4px;
+}
+.contact h1{
+    margin-top: 30px;
+}
+.icons{  
+    text-align: center;
+}
+
+.icons img{
+    width: 20px;
+    height: auto;
+    margin: 10px;
+}
+.link1 a{
+    color: white;
+}
+.last-line p{
+ position:relative;
+ top:120px; 
+ right:50px
+}
